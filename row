@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RAW  - Online Store</title>
+  <style>
+    body { font-family: Arial; }
+    header { background: #333; color: #fff; padding: 20px; text-align: center; }
+    .product { border: 1px solid #ccc; padding: 10px; margin: 10px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>RAW</h1>
+  </header>
+  <h2>CLASSY CLOTHS & ACCESSORY</h2>
+  <div class="T-SHIRT">
+    <h3>LION'S AURA</h3>
+    <p>WEAR THIS T- SHIRT & MAKE YOUR AURA LIKE A LION</p>
+    <p>Price: ₹499</p>
+  </div>
+</body>
+</html>
